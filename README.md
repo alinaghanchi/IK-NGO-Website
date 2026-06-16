@@ -4,12 +4,11 @@ A modern and responsive NGO website developed for **InAmigos Foundation** using 
 
 ## 🌟 Live Demo
 
-https://inamigos-alina.netlify.app/
+https://ik-ngo-website.vercel.app/
 
 ## 📂 GitHub Repository
 
-https://github.com/alinaghanchi/inamigos-foundation
-
+https://github.com/alinaghanchi/IK-NGO-Website
 ## 📖 About the Project
 
 The InAmigos Foundation website was created to showcase the NGO's mission, impact, and community initiatives. The platform highlights educational programs, environmental activities, women empowerment initiatives, animal welfare projects, and social development campaigns.
